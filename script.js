@@ -6,29 +6,29 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Sofia, atravessando o parque em um estado de profunda melancolia, avista um caderno abandonado a distância. Ao notar que ele contém anotações de alguém que também enfrentava a tristeza, ela se vê dividida sobre o que fazer. Sofia pondera se deve se aproximar e ler o caderno para buscar inspiração para novas formas de expressão, como escrever ou desenhar, ou se deve seguir em frente sem se envolver com o conteúdo que poderia refletir suas próprias emoções.",
+        enunciado: "Em que tipo de ambiente o duende verde australiano prefere estabelecer sua residência?",
 
         alternativas: [
             {
-                texto: "pegar o caderno e folear",
-                afirmacao: "Sofia folheia o caderno e encontra anotações de alguém que também lutava com a tristeza. Isso a faz sentir-se mais conectada e a inspirar-se a começar um novo hobby, como escrever ou desenhar, para expressar seus próprios sentimentos."
+                texto: "Em uma caverna escura e misteriosa, onde pode se esconder das criaturas da floresta ",
+                afirmacao: "O duende verde australiano prefere morar em uma fazenda mágica, onde ele pode cuidar de plantações encantadas e dedicar seu tempo a explorar ou criar poções. Este ambiente é ideal para ele, pois combina seu amor pela magia com seu desejo de viver em um lugar vibrante e cheio de vida."
             },
             {
-                texto: "ignorar o caderno e seguir em frente",
-                afirmacao: "Sofia decide deixar o caderno onde está e continuar andando. Ela percebe que está evitando mudanças e decide buscar ajuda e fazer algo para melhorar sua vida."
+                texto: "Em uma fazenda mágica, repleta de plantas encantadas e animais fantásticos",
+                afirmacao: "O duende verde australiano prefere morar em uma fazenda mágica, onde ele pode cuidar de plantações encantadas e dedicar seu tempo a explorar ou criar poções. Este ambiente é ideal para ele, pois combina seu amor pela magia com seu desejo de viver em um lugar vibrante e cheio de vida."
             }
         ]
     },
     {
-        enunciado: "Sofia vê um grupo de pássaros cantando em uma árvore.",
+        enunciado: "Qual é a principal ocupação do duende verde australiano em seu dia a dia?",
         alternativas: [
             {
                 texto: "Parar e Tirar Fotos",
-                afirmacao: "Sofia tira fotos dos pássaros e se surpreende com a beleza do momento. Isso a faz sentir-se um pouco melhor e a inspirar-se a procurar mais momentos simples que possam alegrar seu dia."
+                afirmacao: "O duende verde australiano prefere morar em uma fazenda mágica, onde ele pode cuidar de plantações encantadas e dedicar seu tempo a explorar ou criar poções. Este ambiente é ideal para ele, pois combina seu amor pela magia com seu desejo de viver em um lugar vibrante e cheio de vida."
             },
             {
                 texto: "Ignorar os Pássaros e Continuar Caminhando",
-                afirmacao: "Sofia ignora os pássaros e continua sua caminhada. Ela percebe que está evitando enfrentar seus sentimentos e decide começar a procurar maneiras de lidar com suas emoções de forma mais positiva."
+                afirmacao: "O duende verde australiano prefere morar em uma fazenda mágica, onde ele pode cuidar de plantações encantadas e dedicar seu tempo a explorar ou criar poções. Este ambiente é ideal para ele, pois combina seu amor pela magia com seu desejo de viver em um lugar vibrante e cheio de vida."
             }
         ]
     },
@@ -37,11 +37,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Entrar na Loja e Explorar",
-                afirmacao: "Sofia entra na loja e encontra um objeto antigo que a faz lembrar da infância. Isso a ajuda a se reconectar com coisas que trazem alegria e a motivar-se a buscar mais coisas que a façam feliz."
+                afirmacao: "O duende verde australiano prefere morar em uma fazenda mágica, onde ele pode cuidar de plantações encantadas e dedicar seu tempo a explorar ou criar poções. Este ambiente é ideal para ele, pois combina seu amor pela magia com seu desejo de viver em um lugar vibrante e cheio de vida."
             },
             {
                 texto: "Observar a Loja e Seguir em Frente",
-                afirmacao: "Sofia decide não entrar na loja e segue em frente. Ao refletir sobre sua decisão, ela percebe que está perdendo oportunidades e decide ser mais aberta a novas experiências e mudanças."
+                afirmacao: "O duende verde australiano prefere morar em uma fazenda mágica, onde ele pode cuidar de plantações encantadas e dedicar seu tempo a explorar ou criar poções. Este ambiente é ideal para ele, pois combina seu amor pela magia com seu desejo de viver em um lugar vibrante e cheio de vida."
             }
         ]
     },
