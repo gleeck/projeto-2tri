@@ -80,7 +80,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "e entao Sofia ";
+    caixaPerguntas.textContent = "";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
