@@ -23,24 +23,24 @@ const perguntas = [
         enunciado: "Qual é a principal ocupação do duende verde australiano em seu dia a dia?",
         alternativas: [
             {
-                texto: "Parar e Tirar Fotos",
+                texto: "Ele dedica seu tempo a cuidar das plantações mágicas, garantindo que tudo cresça saudável e cheio de magia  ",
                 afirmacao: "O duende verde australiano prefere morar em uma fazenda mágica, onde ele pode cuidar de plantações encantadas e dedicar seu tempo a explorar ou criar poções. Este ambiente é ideal para ele, pois combina seu amor pela magia com seu desejo de viver em um lugar vibrante e cheio de vida."
             },
             {
-                texto: "Ignorar os Pássaros e Continuar Caminhando",
+                texto: "Ele vive recluso como um eremita na floresta, evitando qualquer contato com o mundo exterior  ",
                 afirmacao: "O duende verde australiano prefere morar em uma fazenda mágica, onde ele pode cuidar de plantações encantadas e dedicar seu tempo a explorar ou criar poções. Este ambiente é ideal para ele, pois combina seu amor pela magia com seu desejo de viver em um lugar vibrante e cheio de vida."
             }
         ]
     },
     {
-        enunciado: "Sofia encontra uma pequena loja de antiguidades chamada Tesouros do Passado",
+        enunciado: "Como o duende verde australiano prefere passar seu tempo livre, quando não está ocupado com suas tarefas diárias?",
         alternativas: [
             {
-                texto: "Entrar na Loja e Explorar",
+                texto: "Ele gosta de explorar cada canto da fazenda mágica, descobrindo novos segredos e maravilhas ",
                 afirmacao: "O duende verde australiano prefere morar em uma fazenda mágica, onde ele pode cuidar de plantações encantadas e dedicar seu tempo a explorar ou criar poções. Este ambiente é ideal para ele, pois combina seu amor pela magia com seu desejo de viver em um lugar vibrante e cheio de vida."
             },
             {
-                texto: "Observar a Loja e Seguir em Frente",
+                texto: "Ele se dedica a preparar poções mágicas na fazenda, experimentando novas combinações de ingredientes ",
                 afirmacao: "O duende verde australiano prefere morar em uma fazenda mágica, onde ele pode cuidar de plantações encantadas e dedicar seu tempo a explorar ou criar poções. Este ambiente é ideal para ele, pois combina seu amor pela magia com seu desejo de viver em um lugar vibrante e cheio de vida."
             }
         ]
